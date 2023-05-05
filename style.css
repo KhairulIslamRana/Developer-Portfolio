@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half{
     width: 50%;
@@ -23,6 +24,18 @@ section{
     background-image: linear-gradient(orange,tomato);
     border-radius: 5px;
     font-weight: 700;
+    color: white;
+    padding: 5px 10px;
+}
+
+.pic2345{
+    color: rgb(190, 237, 94)
+}
+.rana876{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    font-weight: 700px;
     color: white;
     padding: 5px 10px;
 }
