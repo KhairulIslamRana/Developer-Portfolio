@@ -8,7 +8,7 @@ h1{
 .Rana12{
     color:red;
 }
-section{
+.flex{
     display: flex;
     margin-bottom: 150px;
 }
